@@ -18,5 +18,8 @@
     "stylelint": "^10.1.0",
     "stylelint-config-standard": "^18.3.0"
   },
-  "homepage": "https://my-portfolio-palep.netlify.com"
+  "homepage": "https://my-portfolio-palep.netlify.com",
+  "dependencies": {
+    "netlify-cli": "^5.4.1"
+  }
 }
